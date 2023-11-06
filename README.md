@@ -1,6 +1,9 @@
 # Learn-Pull-Request
-make a fork of this repo and put your name in the list of the read.me file.
+Repo for Teach and learn to do your first pull request on Github.
+
+Make a fork of this repo and put your name in the list of the read.me file.
 Then, request a pull request.
 
 # Names 👇
 Diego Francisco Xavier Gatica Retamales
+-Your name in this line-
