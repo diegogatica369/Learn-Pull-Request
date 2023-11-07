@@ -7,4 +7,5 @@ Then, request a pull request.
 # Names 👇
 - Diego Francisco Xavier Gatica Retamales
 - Jhon Doe
-- Your name in this line-
+- Tomás Esteban Valenzuela Ramirez
+- 
